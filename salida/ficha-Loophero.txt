@@ -1,0 +1,11 @@
+
+FICHA DE VIDEOJUEGO
+====================
+Estudiante: Estudiante
+Node.js: v24.20.0
+Plataforma del sistema: win32
+Título: Loop Hero
+Estudio: Four Quarters
+Año: 2021
+Plataformas: PC, Nintendo Switch, Xbox
+¿Es multijugador?: No
