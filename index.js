@@ -28,7 +28,7 @@ Plataformas: ${plataformasTexto}
 `;
 
 const carpetaSalida = path.join(__dirname, "salida");
-const rutaArchivo = path.join(carpetaSalida, "ficha-Loophero.txt");
+const rutaArchivo = path.join(carpetaSalida, "ficha-videojuego.txt");
 
 fs.mkdirSync(carpetaSalida, { recursive: true });
 fs.writeFileSync(rutaArchivo, ficha, "utf8");
